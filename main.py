@@ -65,3 +65,4 @@ while True:
             break
         case _:
             print(f"La opción { option } no es válida, por favor intente de nuevo")
+            
