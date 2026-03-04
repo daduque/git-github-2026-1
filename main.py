@@ -16,7 +16,7 @@ class Olympics:
         #Que no empiece con un número
         words = event.split()
         if not(words[0].isalpha()):
-            print("El nombre del evento no puede comenzar con un número.")
+            print("El Nombre del evento no puede comenzar con un número.")
             return
         
         if event[0].isdigit():
