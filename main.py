@@ -1,4 +1,6 @@
 #hola mundo
+#este cambio fue echo por camilo
+#este cambio fue hecho por tomi!
 class Olympics:
     
     def __init__(self):
