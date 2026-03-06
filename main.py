@@ -1,5 +1,6 @@
 #este cambio fue echo por camilo
 #este cambio fue hecho por tomi!
+#este cambio por maikol
 class Olympics:
     
     def __init__(self):
